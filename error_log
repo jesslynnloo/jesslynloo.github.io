@@ -1,0 +1,110 @@
+[26-Apr-2021 04:54:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/database cw2/config/connect.php on line 4
+[26-Apr-2021 04:54:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/database cw2/config/connect.php on line 4
+[26-Apr-2021 04:54:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/database cw2/create.php on line 7
+[26-Apr-2021 04:54:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/database cw2/create.php on line 86
+[26-Apr-2021 04:54:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/database cw2/config/connect.php on line 4
+[26-Apr-2021 04:59:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:06:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:32:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:34:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:36:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:36:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/update.php on line 7
+[26-Apr-2021 05:36:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/update.php on line 88
+[26-Apr-2021 05:40:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:41:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:42:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:44:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:46:19 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:46:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:46:26 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:46:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:46:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/create.php on line 7
+[26-Apr-2021 05:46:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/create.php on line 86
+[26-Apr-2021 05:47:27 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:47:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:47:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/create.php on line 7
+[26-Apr-2021 05:47:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/create.php on line 86
+[26-Apr-2021 05:48:29 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:48:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:49:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:55:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:55:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 05:55:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/create.php on line 7
+[26-Apr-2021 05:55:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/create.php on line 86
+[26-Apr-2021 05:57:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:00:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:01:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hcyjl5ju_hcyjl5jupiter'@'localhost' (using password: NO) in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:02:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Invalid argument in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:04:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Invalid argument in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:04:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Invalid argument in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:04:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Invalid argument in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:04:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/create.php on line 7
+[26-Apr-2021 06:04:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/create.php on line 86
+[26-Apr-2021 06:06:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Invalid argument in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:15:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:15:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:16:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:16:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/create.php on line 7
+[26-Apr-2021 06:16:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/create.php on line 86
+[26-Apr-2021 06:38:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'hcyjl5ju_hcyjl5jupiter'@'localhost' to database 'hcyjl5ju_entertainment' in /home/hcyjl5jupiter/public_html/config/connect.php on line 4
+[26-Apr-2021 06:38:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hcyjl5jupiter/public_html/create.php on line 7
+[26-Apr-2021 06:38:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hcyjl5jupiter/public_html/create.php on line 86
+[26-Apr-2021 14:39:59 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:27) in /home/hcyjl5jupiter/public_html/create_actor.php on line 57
+[26-Apr-2021 14:42:11 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:27) in /home/hcyjl5jupiter/public_html/create_actor.php on line 57
+[26-Apr-2021 14:44:31 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:27) in /home/hcyjl5jupiter/public_html/create_actor.php on line 57
+[26-Apr-2021 07:24:38 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 88
+[26-Apr-2021 07:24:40 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 88
+[26-Apr-2021 07:25:40 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 07:25:43 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 07:25:44 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 07:25:45 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 11:47:22 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 11:47:27 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 11:48:04 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 12:01:22 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 12:45:19 UTC] PHP Parse error:  syntax error, unexpected ''</td></tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 12:46:58 UTC] PHP Parse error:  syntax error, unexpected ''</td><tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 12:46:59 UTC] PHP Parse error:  syntax error, unexpected ''</td><tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 12:47:00 UTC] PHP Parse error:  syntax error, unexpected ''</td><tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 12:47:01 UTC] PHP Parse error:  syntax error, unexpected ''</td><tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[26-Apr-2021 12:55:02 UTC] PHP Parse error:  syntax error, unexpected ''</td><tr>; ?>' (T_ENCAPSED_AND_WHITESPACE) in /home/hcyjl5jupiter/public_html/create.php on line 87
+[27-Apr-2021 02:41:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:30) in /home/hcyjl5jupiter/public_html/delete_payment.php on line 33
+[27-Apr-2021 15:15:10 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(images/2128-huxwryw4238990.jpg): failed to open stream: No such file or directory in /home/hcyjl5jupiter/public_html/create_staff.php on line 104
+[27-Apr-2021 15:15:10 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8X8vX5' to 'images/2128-huxwryw4238990.jpg' in /home/hcyjl5jupiter/public_html/create_staff.php on line 104
+[27-Apr-2021 15:15:41 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:3) in /home/hcyjl5jupiter/public_html/create_staff.php on line 111
+[27-Apr-2021 15:15:58 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:3) in /home/hcyjl5jupiter/public_html/create_staff.php on line 111
+[27-Apr-2021 15:16:20 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(images/2128-huxwryw4238990.jpg): failed to open stream: No such file or directory in /home/hcyjl5jupiter/public_html/create_staff.php on line 104
+[27-Apr-2021 15:16:20 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFefWqh' to 'images/2128-huxwryw4238990.jpg' in /home/hcyjl5jupiter/public_html/create_staff.php on line 104
+[27-Apr-2021 15:16:33 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:3) in /home/hcyjl5jupiter/public_html/create_staff.php on line 111
+[27-Apr-2021 15:18:07 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(images/74.jpg): failed to open stream: No such file or directory in /home/hcyjl5jupiter/public_html/create_staff.php on line 111
+[27-Apr-2021 15:18:07 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppBm4T3' to 'images/74.jpg' in /home/hcyjl5jupiter/public_html/create_staff.php on line 111
+[27-Apr-2021 15:18:23 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(images/74.jpg): failed to open stream: No such file or directory in /home/hcyjl5jupiter/public_html/create_staff.php on line 111
+[27-Apr-2021 15:18:23 Asia/Kuala_Lumpur] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php09DrcZ' to 'images/74.jpg' in /home/hcyjl5jupiter/public_html/create_staff.php on line 111
+[27-Apr-2021 15:18:37 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 118
+[27-Apr-2021 15:41:23 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 120
+[27-Apr-2021 07:42:13 UTC] PHP Warning:  chmod(): No such file or directory in /home/hcyjl5jupiter/public_html/create_staff.php on line 12
+[27-Apr-2021 07:42:27 UTC] PHP Warning:  chmod(): No such file or directory in /home/hcyjl5jupiter/public_html/create_staff.php on line 12
+[27-Apr-2021 16:15:05 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 123
+[27-Apr-2021 16:16:13 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:3) in /home/hcyjl5jupiter/public_html/create_staff.php on line 116
+[27-Apr-2021 16:28:39 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 123
+[27-Apr-2021 16:46:23 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 124
+[27-Apr-2021 16:51:23 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 129
+[27-Apr-2021 17:12:57 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 129
+[27-Apr-2021 17:13:09 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 129
+[27-Apr-2021 17:15:28 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 129
+[27-Apr-2021 17:54:04 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/create_staff.php:10) in /home/hcyjl5jupiter/public_html/create_staff.php on line 129
+[27-Apr-2021 20:21:29 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:31) in /home/hcyjl5jupiter/public_html/update_payment.php on line 113
+[27-Apr-2021 20:21:48 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:31) in /home/hcyjl5jupiter/public_html/update_payment.php on line 113
+[27-Apr-2021 20:24:36 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 65
+[27-Apr-2021 20:24:36 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:31) in /home/hcyjl5jupiter/public_html/update_payment.php on line 114
+[27-Apr-2021 20:25:11 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 65
+[27-Apr-2021 20:25:11 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:31) in /home/hcyjl5jupiter/public_html/update_payment.php on line 114
+[27-Apr-2021 20:25:53 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 65
+[27-Apr-2021 20:25:53 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:31) in /home/hcyjl5jupiter/public_html/update_payment.php on line 114
+[27-Apr-2021 20:32:30 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 66
+[27-Apr-2021 20:36:43 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 66
+[27-Apr-2021 20:36:57 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 66
+[27-Apr-2021 20:36:57 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hcyjl5jupiter/public_html/templates/header.php:31) in /home/hcyjl5jupiter/public_html/update_payment.php on line 126
+[27-Apr-2021 20:37:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 66
+[27-Apr-2021 20:40:22 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 66
+[27-Apr-2021 20:40:24 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'rental_id' in /home/hcyjl5jupiter/public_html/update_payment.php on line 66
